@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+	<Extension path="/MonoDevelop/Ide/FileTemplates">
+		<FileTemplate id ="EmptyResourceFileNoTool"  file = "Templates/EmptyResourceFileNoTool.xft.xml"/>
+		<FileTemplate id ="EmptyResourceFilePublicGeneration"  file = "Templates/EmptyResourceFilePublic.xft.xml"/>
+	</Extension>
+</ExtensionModel>
