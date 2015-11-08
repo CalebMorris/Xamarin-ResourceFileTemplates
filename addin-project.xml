@@ -1,0 +1,7 @@
+<AddinProject appVersion="2.4">
+  <Project platforms="Mac Linux Win32">
+    <AddinFile>ResxTemplates/bin/Release/ResxTemplates.dll</AddinFile>
+    <BuildFile>ResxTemplates.sln</BuildFile>
+    <BuildConfiguration>Release</BuildConfiguration>
+  </Project>
+</AddinProject>
